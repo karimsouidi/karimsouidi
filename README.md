@@ -1,4 +1,4 @@
-## Hi, I'm Karim 👋
+## Hi, I'm Karim 
 
 Statistician and econometrician based in Toronto, with more than a decade of experience working with justice and social data and teaching statistics.
 
